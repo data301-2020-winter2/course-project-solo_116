@@ -1,0 +1,1 @@
+Any external images should be in this directory
